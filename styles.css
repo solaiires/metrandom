@@ -63,7 +63,7 @@ body {
     padding: 30px;
     margin: 20px;
     height: 100vh; /* Full viewport height */
-    overflow-y: auto; /* Makes it scrollable */
+    /* overflow-y: auto; Makes it scrollable */
 }
 
 /* title and artist styling */
